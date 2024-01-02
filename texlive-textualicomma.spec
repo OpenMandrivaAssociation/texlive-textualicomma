@@ -1,6 +1,6 @@
 Name:		texlive-textualicomma
-Version:	48474
-Release:	2
+Version:	67201
+Release:	1
 Summary:	Use the textual comma character as decimal separator in math mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textualicomma
