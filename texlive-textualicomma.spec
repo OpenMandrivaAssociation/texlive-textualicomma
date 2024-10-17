@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	Use the textual comma character as decimal separator in math mode
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textualicomma
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/textualicomma
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textualicomma.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textualicomma.doc.r%{version}.tar.xz
